@@ -1,4 +1,4 @@
-# Ox Doorlock (QB added)
+# Description (QB added)
 Personally i wanted to use this script into my qb-core server and i see there is no support for qb-core so i said why not i hope it will be help to your server
 
 # Ox Doorlock
