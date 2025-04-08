@@ -1,3 +1,6 @@
+# Ox Doorlock (QB added)
+Personally i wanted to use this script into my qb-core server and i see there is no support for qb-core so i said why not i hope it will be help to your server
+
 # Ox Doorlock
 
 Door management resource, with compatibility for [ox_core](https://github.com/overextended/ox_core), [es_extended](https://github.com/esx-framework/esx_core), [nd_core](https://github.com/ND-Framework/ND_Core), and [qbox](https://github.com/Qbox-project/qbx_core).  
